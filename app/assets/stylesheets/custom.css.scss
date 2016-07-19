@@ -1,4 +1,4 @@
-$navbar-default-bg: #B404AE;
+$navbar-default-bg: #000000;
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
@@ -12,14 +12,12 @@ $navbar-default-bg: #B404AE;
   font-weight: bold;
 }
 
-#text{
-  color: #fff;
-}
 
 #logo:hover{
   color: #fff;
   text-decoration: none;
 }
+
 
 .center{
   text-align: center;
